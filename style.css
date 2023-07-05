@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+    font-family: 'Poppins', sans-serif;
+
+}
+.menu{
+    font-size: 12px;
+  padding-top: 12px;
+}
+#button1{
+    padding: 10px 10px;
+    background-color:rgb(14, 148, 14);
+    font-size: 14px;
+    color: white;
+    border: 1px solid rgb(14, 148, 14);
+    margin-top: 20px;
+    
+}
+#button2{
+    padding: 10px 10px;
+    background-color:rgb(14, 148, 14);
+    font-size: 14px;
+    color: white;
+    border: 1px solid rgb(14, 148, 14);
+    margin-top: 20px;
+    margin-left: 5px;
+    
+}
+
+.chevron{
+    background-color: rgb(14, 148, 14);
+    padding: auto;
+    border: 1px solid rgb(14, 148, 14);
+    color: white;
+    text-align: center;
+}
+.arrow-top{
+    position: absolute;
+    top: 50%;
+    right: 98%;
+}
+.arrow-down{
+    position: absolute;
+    top: 50%;
+    left: 98%;
+}
+#H1{
+    font-size: 30px;
+    font-family: 'poppins', sans-serif;
+    color: #000;
+}
+#H3{
+    font-size: 12px;
+    color: rgb(14, 148, 14);
+}
+#P{
+    font-size: 12px;
+    color: #000;
+    opacity:60%;
+}
+.containe{
+    margin-left: 12%;
+}
+.light{
+    margin-right:  300px; 
+    margin-left:50px;
+    margin-bottom:  50px;
+    margin-top: 50px;
+    padding-right: 50px;
+}
+.recent{
+    margin-top: 30px;
+}
+.recent>p{
+    font-size: 10px;
+    opacity: 60%;
+    line-height: 5px;
+}
+.list-itm>ul>li{
+     margin-top: 10px;
+     margin-bottom: 10px;
+}
+.text>h4{
+    font-size: 30px;
+    padding-bottom: 5px;
+}
+.text>p{
+    font-size: 12px;
+    opacity: 70%;
+    font-family: 'poppnis', sans-serif;
+    line-height: 2px;
+}
+.border{
+    border: 1px solid rgb(246, 239, 239);
+}
+.border>p{
+    opacity: 30%;
+}
+.cont{
+    margin-left: 12%;
+    margin-right: 12%;
+}
+.label-text{
+    text-align: center;
+}
+.label-section{
+    padding-top: 8% ;
+}
+.label-text>h3{
+     font-size: 30px;
+     padding-bottom: 5px;
+}
+.label-text>p{
+    font-size: 12px;
+    opacity: 70%;
+    font-family: 'poppnis', sans-serif;
+    line-height: 2px;
+}
+.complete>h4{
+    font-size: 18px;
+}
+.complete>p{
+    font-size: 12px;
+    font-family: 'poppnis', sans-serif;
+    opacity: 70%;
+}
+.ceackbox{
+    font-size: 12px;
+    font-family: 'poppnis', sans-serif;
+    opacity: 30%;
+}
+.bg1{
+    background-color: rgb(5, 173, 5);
+    font-size: 20px;
+    display: inline-block;
+    padding: 5px;
+    line-height: 1px;
+    color: white;
+    position: absolute;
+    top:3262px;
+    left: 152px;
+}
+.bg1>p{
+    font-size: 15px;
+}
+.bg2{
+    background-color: rgb(5, 173, 5);
+    font-size: 15px;
+    display: inline-block;
+    padding: 5px;
+    line-height: 1px;
+    color: white;
+    position: absolute;
+    top:3262px;
+    left: 51%;
+}
+.sponsor{
+   padding-top: 15px; 
+  
+}
+.sponsor>h2{
+    font-size: 30px;
+   padding-bottom: 5px;
+}
+.sponsor>p{
+    font-size: 12px;
+    font-family: 'poppnis',sans-serif;
+    opacity: 70%;
+    line-height: 2px;
+}
+.hero-section>h2{
+    font-size: 5px;
+}
+.margin-left{
+    margin-left: 60%;
+}
+.button1{
+    border: 2px solid rgb(14, 148, 14);
+    color: rgb(14, 148, 14);
+    padding: 5px 10px;
+    text-align: center;
+    background-color: white;
+}
+.button2{
+    border: 2px solid rgb(14, 148, 14);
+    color: rgb(14, 148, 14);
+    padding: 5px 10px;
+    text-align: center;
+    background-color: white;
+}
+.icon-section{
+    background-color: rgb(92, 173, 38);
+}
+.top-section{
+    width: 100%;
+}
+.text-section{
+    position: absolute;
+    top:40%;
+    left: 50%;
+    color: white;
+
+}
+.img-section>img{
+    width: 100%;
+}
+.text-section>h3{
+    font-size: 15px;
+}
+.text-section>h4{
+    font-size: 15px;
+}
+.arrow-section{
+    position: absolute;
+    top:60%;
+    left:95%;
+}
+.arrow-section>img{
+    width: 20%;
+    background-color: aquamarine;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+}
